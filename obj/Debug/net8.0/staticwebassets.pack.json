@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/cloud-sample-project/obj/Debug/net8.0/scopedcss/projectbundle/cloud-sample-project.bundle.scp.css",
+      "PackagePath": "staticwebassets/cloud-sample-project.bundle.scp.css"
+    },
+    {
+      "Id": "/workspaces/cloud-sample-project/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/workspaces/cloud-sample-project/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/cloud-sample-project/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/cloud-sample-project/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.cloud-sample-project.props",
+      "PackagePath": "build\\cloud-sample-project.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.cloud-sample-project.props",
+      "PackagePath": "buildMultiTargeting\\cloud-sample-project.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.cloud-sample-project.props",
+      "PackagePath": "buildTransitive\\cloud-sample-project.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.cloud-sample-project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
